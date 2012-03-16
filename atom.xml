@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ituinovasyon.github.com/guvercin/atom.xml" rel="self"/>
   <link href="http://ituinovasyon.github.com/guvercin/"/>
-  <updated>2012-03-16T02:57:12+02:00</updated>
+  <updated>2012-03-16T03:39:15+02:00</updated>
   <id>http://ituinovasyon.github.com/guvercin/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Merhaba Dünya]]></title>
+    <link href="http://ituinovasyon.github.com/guvercin/blog/2012/03/16/merhaba-dunya/"/>
+    <updated>2012-03-16T03:38:00+02:00</updated>
+    <id>http://ituinovasyon.github.com/guvercin/blog/2012/03/16/merhaba-dunya</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
